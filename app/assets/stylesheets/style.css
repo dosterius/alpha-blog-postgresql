@@ -15,6 +15,10 @@ body {
     font-size: 18px;
 }
 
+p {
+    color: #000000;
+}
+
 h1, h2, h3 {
     color: #18da7f93;
 }
